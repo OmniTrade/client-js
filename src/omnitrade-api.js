@@ -180,7 +180,6 @@ module.exports = function(opts) {
     });
 
     return p.then(function(data){
-      console.log(data);
       return JSON.parse(data)
     })
   }

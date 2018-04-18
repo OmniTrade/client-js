@@ -1,0 +1,20 @@
+{ "sn": "HEXHEXHEX",
+	"name": "Max Power",
+	"email": "maxpower@gmail.com",
+	"activated": true,
+	"accounts": 
+	[
+		{ "currency": "brl",
+			"balance": "94309.3231092430410813",
+		"locked": "83.748923374629904" },
+		{ "currency": "btc", "balance": "10033.94", "locked": "0.0" },
+		{ "currency": "ltc", "balance": "20000.0", "locked": "0.0" },
+		{ "currency": "bch",
+			"balance": "10101.43982616",
+		"locked": "0.02413192" },
+		{ "currency": "eth",
+			"balance": "10000.04316217",
+		"locked": "0.01127635" },
+		{ "currency": "dash", "balance": "10000.0", "locked": "0.0" }
+	]
+}
