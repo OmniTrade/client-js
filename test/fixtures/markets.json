@@ -1,0 +1,26 @@
+[
+  {
+    "id": "btcbrl",
+    "name": "BTC/BRL"
+  },
+  {
+    "id": "ltcbrl",
+    "name": "LTC/BRL"
+  },
+  {
+    "id": "bchbrl",
+    "name": "BCH/BRL"
+  },
+  {
+    "id": "btgbrl",
+    "name": "BTG/BRL"
+  },
+  {
+    "id": "ethbrl",
+    "name": "ETH/BRL"
+  },
+  {
+    "id": "dogebrl",
+    "name": "DOGE/BRL"
+  }
+]
